@@ -1,0 +1,20 @@
+Character Recognition System
+
+Introduction:
+This system will recognize characters from 0-9 and ABC in BMP file. Currently it has some limitations like
+
+1.	Font should be Times New Roman with size 11.
+2.	Black color should be used to write data i.e. numbers from 0 to 9 and ABC.
+
+Recommendation:
+Although you can use black color to draw any object in BMP file but for performance of application it is highly recommended that black color should be used only for data i.e. numbers from 0 to 9 and ABC.
+
+Future Planes:
+My further enhancements to the applications are
+
+1.	Improve processing time.
+2.	Application will be able to recognize larger set of data (0-9, A-Z, a-z and some punctuation characters).
+3.	Application will be able to support multiple font styles and their sizes.
+
+Comments:
+You can give me you personal comments on e-mail: a_waj@yahoo.co.uk
